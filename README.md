@@ -78,7 +78,7 @@
 #### 🖥️ Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS" />
-  <img src="https://img.shields.io/badge/Parrot_Security-50ADEC?style=for-the-badge&logo=parrot&logoColor=white" alt="Parrot Security" />
+  <img src="https://img.shields.io/badge/Parrot_Security-50ADEC?style=for-the-badge&logo=parrotsecurity&logoColor=white" alt="Parrot Security" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
