@@ -70,8 +70,6 @@
 
 ### 📈 GitHub Activity
 
-![Parakrama's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TMParakrama&theme=react-dark)
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TMParakrama&color=blueviolet" alt="Profile views" />
 </div>
