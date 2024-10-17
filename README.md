@@ -1,25 +1,14 @@
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div>
-    ## Hi there! 👋 I'm Parakrama Thennakoon
+## Hi there! 👋 I'm Parakrama Thennakoon
 
-    <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Web+App+Developer;React+Native+Enthusiast" alt="Typing SVG" />
-    </div>
-
-    ### 👨‍💻 About Me
-
-    - 🚀 I'm currently working on React Native Mobile Apps
-    - 💡 Passionate about creating seamless user experiences
-    - 🌐 Experienced in both mobile and web app development
-  </div>
-
-  <div style="position: fixed; right: 20px; top: 50%; transform: translateY(-50%); display: flex; flex-direction: column; align-items: center;">
-    ### 📫 Let's Connect!
-
-    <a href="http://www.linkedin.com/in/parakrama-thennakoon-msbwtm" style="writing-mode: vertical-rl; text-orientation: mixed; margin: 10px 0;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:t.m.parakrama@gmail.com" style="writing-mode: vertical-rl; text-orientation: mixed; margin: 10px 0;"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Web+App+Developer;React+Native+Enthusiast" alt="Typing SVG" />
 </div>
+
+### 👨‍💻 About Me
+
+- 🚀 I'm currently working on React Native Mobile Apps
+- 💡 Passionate about creating seamless user experiences
+- 🌐 Experienced in both mobile and web app development
 
 ### 🛠️ Tech Stack
 
@@ -86,6 +75,13 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TMParakrama&color=blueviolet" alt="Profile views" />
 </div>
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="http://www.linkedin.com/in/parakrama-thennakoon-msbwtm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:t.m.parakrama@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
