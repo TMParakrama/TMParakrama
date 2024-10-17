@@ -57,6 +57,7 @@
 </div>
 
 <!--
+Nothing important here for now
 ### 🎨 Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TMParakrama&repo=your-best-repo&theme=radical)](https://github.com/TMParakrama/your-best-repo)
@@ -84,10 +85,12 @@
 </p>
 
 ---
-
+<!--
+Nothing here for now
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TMParakrama&theme=darkhub&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
+-->
 
 ### 👀 Realtime Visit Count
 
