@@ -65,7 +65,9 @@
 ### 🤓 Fun Facts
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=600&lines=First+mobile+app+was+Tetris+in+1994;'Bug'+in+CS+from+a+moth+in+Harvard+Mark+II;Average+person+spends+3h+15m+on+phone+daily" alt="Fun Facts Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=600&lines=First+mobile+app+was+Tetris+in+1994;'Bug'+in+CS+from+a+moth+in+Harvard+Mark+II;Average+person+spends+3h+15m+on+phone+daily" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=600&lines=First+mobile+app+was+Tetris+in+1994;'Bug'+in+CS+from+a+moth+in+Harvard+Mark+II;Average+person+spends+3h+15m+on+phone+daily" alt="Fun Facts Typing SVG" />
+  </a>
 </div>
 
 ### 📈 GitHub Activity
