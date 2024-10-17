@@ -1,14 +1,25 @@
-## Hi there! 👋 I'm Parakrama Thennakoon
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div>
+    ## Hi there! 👋 I'm Parakrama Thennakoon
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Web+App+Developer;React+Native+Enthusiast" alt="Typing SVG" />
+    <div align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Web+App+Developer;React+Native+Enthusiast" alt="Typing SVG" />
+    </div>
+
+    ### 👨‍💻 About Me
+
+    - 🚀 I'm currently working on React Native Mobile Apps
+    - 💡 Passionate about creating seamless user experiences
+    - 🌐 Experienced in both mobile and web app development
+  </div>
+
+  <div style="position: fixed; right: 20px; top: 50%; transform: translateY(-50%); display: flex; flex-direction: column; align-items: center;">
+    ### 📫 Let's Connect!
+
+    <a href="http://www.linkedin.com/in/parakrama-thennakoon-msbwtm" style="writing-mode: vertical-rl; text-orientation: mixed; margin: 10px 0;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:t.m.parakrama@gmail.com" style="writing-mode: vertical-rl; text-orientation: mixed; margin: 10px 0;"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </div>
 </div>
-
-### 👨‍💻 About Me
-
-- 🚀 I'm currently working on React Native Mobile Apps
-- 💡 Passionate about creating seamless user experiences
-- 🌐 Experienced in both mobile and web app development
 
 ### 🛠️ Tech Stack
 
@@ -65,8 +76,8 @@
 ### 🤓 Fun Facts
 
 <div align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=600&lines=First+mobile+app+was+Tetris+in+1994;'Bug'+in+CS+from+a+moth+in+Harvard+Mark+II;Average+person+spends+3h+15m+on+phone+daily" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=600&lines=First+mobile+app+was+Tetris+in+1994;'Bug'+in+CS+from+a+moth+in+Harvard+Mark+II;Average+person+spends+3h+15m+on+phone+daily" alt="Fun Facts Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=600&lines=First+mobile+app+was+Tetris+in+1994;'Bug'+in+CS+from+a+moth+in+Harvard+Mark+II;Average+person+spends+3h+15m+on+phone+daily;Node.js+can+handle+1M+concurrent+connections;MongoDB+can+handle+100%2B+TB+of+data" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=600&lines=First+mobile+app+was+Tetris+in+1994;'Bug'+in+CS+from+a+moth+in+Harvard+Mark+II;Average+person+spends+3h+15m+on+phone+daily;Node.js+can+handle+1M+concurrent+connections;MongoDB+can+handle+100%2B+TB+of+data" alt="Fun Facts Typing SVG" />
   </a>
 </div>
 
@@ -75,13 +86,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TMParakrama&color=blueviolet" alt="Profile views" />
 </div>
-
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="http://www.linkedin.com/in/parakrama-thennakoon-msbwtm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:t.m.parakrama@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 ---
 
@@ -93,10 +97,4 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/TMParakrama/count.svg" alt="Visitor Count" />
-</div>
-
-### 🕒 Local Date and Time
-
-<div align="center">
-  <img src="https://time.is/widget/Now?color=white&font=Fira%20Code&sound=0&wid=391&w=740&h=300&v=1" alt="Local Date and Time" />
 </div>
