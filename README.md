@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 I'm currently working on React Native Mobile Apps
+- 🚀 Currently serving as a Senior Software Engineer, leading React Native mobile app development
 - 💡 Passionate about creating seamless user experiences
 - 🌐 Experienced in both mobile and web app development
 
@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
-
+<!--
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -98,7 +98,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TMParakrama&theme=radical" alt="GitHub Streak" />
 </div>
-
+-->
 <!--
 Nothing important here for now
 ### 🎨 Projects
@@ -109,17 +109,17 @@ Nothing important here for now
 ### 🤓 Fun Facts
 
 <div align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=600&lines=First+mobile+app+was+Tetris+in+1994;'Bug'+in+CS+from+a+moth+in+Harvard+Mark+II;Average+person+spends+3h+15m+on+phone+daily;Node.js+can+handle+1M+concurrent+connections;MongoDB+can+handle+100%2B+TB+of+data" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=600&lines=First+mobile+app+was+Tetris+in+1994;'Bug'+in+CS+from+a+moth+in+Harvard+Mark+II;Average+person+spends+3h+15m+on+phone+daily;Node.js+can+handle+1M+concurrent+connections;MongoDB+can+handle+100%2B+TB+of+data" alt="Fun Facts Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=600&lines=First+mobile+app+was+Tetris+in+1994;'Bug'+in+CS+from+a+moth+in+Harvard+Mark+II;Average+person+spends+3h+15m+on+phone+daily;Node.js+can+handle+1M+concurrent+connections;MongoDB+can+handle+100%2B+TB+of+data;Linux+excels+as+a+lightweight+OS+for+development" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=600&lines=First+mobile+app+was+Tetris+in+1994;'Bug'+in+CS+from+a+moth+in+Harvard+Mark+II;Average+person+spends+3h+15m+on+phone+daily;Node.js+can+handle+1M+concurrent+connections;MongoDB+can+handle+100%2B+TB+of+data;Linux+excels+as+a+lightweight+OS+for+development" alt="Fun Facts Typing SVG" />
   </a>
 </div>
-
+<!--
 ### 📈 GitHub Activity
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TMParakrama&color=blueviolet" alt="Profile views" />
 </div>
-
+-->
 ### 📫 Let's Connect!
 
 <p align="center">
