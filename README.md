@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Currently serving as a Senior Software Engineer, leading React Native mobile app development
+- 🚀 Software Engineer with years of experience
 - 💡 Passionate about creating seamless user experiences
 - 🌐 Experienced in both mobile and web app development
 
